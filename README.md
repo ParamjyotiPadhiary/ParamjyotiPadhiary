@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Paramjyoti Padhiary</h1>
-<h3 align="center">🚀 3rd Year B.Tech CSE Student | Java Developer | Web Developer | DSA Learner</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Frontend+Web+Developer;Learning+DSA+%26+Backend;Always+Learning+New+Technologies!" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=⚡ＰＡＲＡＭＪＹＯＴＩ%20ＰＡＤＨＩＡＲＹ⚡&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Full%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=60"/>
 </p>
