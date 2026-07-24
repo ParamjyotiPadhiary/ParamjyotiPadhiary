@@ -2,7 +2,7 @@
 <h3 align="center">🚀 3rd Year B.Tech CSE Student | Java Developer | Web Developer | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Frontend+Web+Developer;Learning+DSA+%26+Backend;Always+Learning+New+Technologies!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;web devloper;Frontend+Web+Developer;Learning+DSA+%26+Backend;Always+Learning+New+Technologies!" />
 </p>
 
 ---
@@ -73,11 +73,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ParamjyotiPadhiary&theme=tokyo-night)
 
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/ParamjyotiPadhiary/ParamjyotiPadhiary/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
