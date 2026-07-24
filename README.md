@@ -103,18 +103,6 @@
 
 ---
 
-<div align="center">
 
-## 🚀 Developer Status
-
-🟢 Currently Coding
-
-🕒 Time Zone: IST (UTC +05:30)
-
-📍 Bhubaneswar, Odisha, India
-
-☕ Coffee Level: ██████████ 100%
-
-</div>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
