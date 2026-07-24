@@ -42,6 +42,14 @@
 
 ---
 
+## 🌍 Time Zone
+
+```text
+🇮🇳 IST (UTC+05:30)
+Bhubaneswar, Odisha
+
+---
+
 ## 💻 Tech Stack
 
 <p align="center">
