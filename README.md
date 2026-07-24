@@ -1,28 +1,20 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Paramjyoti Padhiary</h1>
+<h3 align="center">🚀 3rd Year B.Tech CSE Student | Java Developer | Web Developer | DSA Learner</h3>
 
-# Hi 👋, I'm Paramjyoti Padhiary
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer+in+Progress;DSA+Enthusiast;Open+Source+Learner;Always+Learning+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=ParamjyotiPadhiary&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Frontend+Web+Developer;Learning+DSA+%26+Backend;Always+Learning+New+Technologies!" />
+</p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech CSE (3rd Year) | ITER, SOA University
-
-💻 Java Developer
-
-🌐 Frontend Web Developer
-
-📚 Learning DSA & Backend Development
-
-🎯 Goal: Become a Full Stack Developer
-
-⚡ Fun Fact: I enjoy building real-world projects.
+- 🎓 3rd Year B.Tech CSE Student at **ITER, SOA University**
+- 🌱 Currently learning **Java, DSA, Web Development**
+- 💡 Interested in Full Stack Development
+- 📫 Email: **paramjyotipadhiary99@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/paramjyoti-padhiary-583018419**
+- ⚡ Fun Fact: I love building projects and learning new technologies.
 
 ---
 
@@ -50,66 +42,65 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,git,github,vscode,mysql,react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=ParamjyotiPadhiary&theme=tokyonight&hide_border=true&show_icons=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ParamjyotiPadhiary&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ParamjyotiPadhiary&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamjyotiPadhiary&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ParamjyotiPadhiary&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParamjyotiPadhiary&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-# 🏆 Achievements
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ParamjyotiPadhiary&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParamjyotiPadhiary&theme=tokyo-night"/>
+![](https://github-profile-trophy.vercel.app/?username=ParamjyotiPadhiary&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
-# 🐍 Snake Eating My Contributions
+## 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ParamjyotiPadhiary/ParamjyotiPadhiary/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ParamjyotiPadhiary&theme=tokyo-night)
 
 ---
 
-# 💬 Dev Quote
 
-> "Code. Learn. Build. Repeat."
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=ParamjyotiPadhiary&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-<div align="center">
+## ✨ Quote
 
-### ⭐ Thanks for visiting my profile ⭐
+> "Consistency beats talent when talent doesn't stay consistent."
 
-**If you like my work, don't forget to ⭐ my repositories!**
+---
 
-</div>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
